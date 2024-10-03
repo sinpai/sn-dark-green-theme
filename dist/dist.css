@@ -46,7 +46,6 @@
   --sn-desktop-titlebar-border-color: var(--border-color);
   --sn-desktop-titlebar-ui-color: var(--foreground-1);
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
-  --sn-stylekit-monospace-font: 'Iosevka', courier, monospace;
 	--sn-stylekit-sans-serif-font: sans-serif, -apple-system, BlinkMacSystemFont;
   /* Note flags */
   /* Note selected */
