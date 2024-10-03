@@ -47,8 +47,7 @@
   --sn-desktop-titlebar-ui-color: var(--foreground-1);
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
   --sn-stylekit-monospace-font: 'Iosevka', courier, monospace;
-	--sn-stylekit-sans-serif-font: 'Literaturnaya 20', 'Georgia', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
-	                               'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+	--sn-stylekit-sans-serif-font: sans-serif, -apple-system, BlinkMacSystemFont;
   /* Note flags */
   /* Note selected */
   /* Sidebar note properties: Dates, tags, etc. */
