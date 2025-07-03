@@ -1,5 +1,5 @@
 {
-  "name": "@standardnotes/sinpaich-theme",
+  "name": "@standardnotes/sinpaich-dark-theme",
   "version": "1.2.0",
   "main": "dist/dist.css",
   "author": "Standard Notes",
@@ -7,7 +7,7 @@
     "access": "public"
   },
   "sn": {
-    "name": "Sinpaich",
+    "name": "Sinpaich Dark theme",
     "content_type": "SN|Theme",
     "area": "themes",
     "main": "dist/dist.css",
