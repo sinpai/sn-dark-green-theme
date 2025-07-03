@@ -1,11 +1,11 @@
 :root {
 
-  --background-1: #bee2be;
-  --background-2: #98b498;
-  --background-3: #d5ebd5;
-  --border-color: #303030;
-  --foreground-1: #262626;
-  --foreground-2: #1e1e1e;
+  --background-1: #2E4338;
+  --background-2: #293c32;
+  --background-3: #42554b;
+  --border-color: #43382e;
+  --foreground-1: #ffffff;
+  --foreground-2: #F2EFE5;
  
   --sn-stylekit-neutral-color: var(--foreground-2); 
   --sn-stylekit-neutral-contrast-color: #cdba96;			/* Button text*/
